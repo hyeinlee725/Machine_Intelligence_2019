@@ -1,3 +1,5 @@
-# 지능정보수학(Machine_Intelligence)
+# Machine_Intelligence
 
-## Practice
+## 지능정보수학
+
+### Practice
