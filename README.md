@@ -1,5 +1,5 @@
 # Machine_Intelligence
 
-## 지능정보수학
+## * 지능정보수학
 
-### Practice
+### Practice Coding
